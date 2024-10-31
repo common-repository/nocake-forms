@@ -1,0 +1,11 @@
+.ncforms-form-select {
+    padding: 10px 16px;
+    background: #929292;
+    border-radius: 10px;
+    color: #fff;
+    opacity: .4;
+}
+.wp-block.is-selected .ncforms-form-select {
+    background: #88a7f1;
+    opacity: 1;
+}
